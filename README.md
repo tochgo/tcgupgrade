@@ -9,11 +9,11 @@ tcgupgrade
 
 upgrade.config 文件说明
 属性说明：type:文件类型css、js ;bak="true"：备份，bak="false"不备份
-<item type="css">test/test.css</item>//自动压缩，自动备份
-<item type="js" bak="false">test/test.js</item> //自动压缩，不备份
-<item>test/test.jpg</item>//上传并备份
-<item bak="false">test/test.jpg</item>//上传不备份
-<item>test/a/*.jpg</item>//批量上传
+&lt;item type="css"&gt;test/test.css&lt;/item&gt;//自动压缩，自动备份
+&lt;item type="js" bak="false"&gt;test/test.js&lt;/item&gt; //自动压缩，不备份
+&lt;item&gt;test/test.jpg&lt;/item&gt;//上传并备份
+&lt;item bak="false"&gt;test/test.jpg&lt;/item&gt;//上传不备份
+&lt;item&gt;test/a/*.jpg&lt;/item&gt;//批量上传
 
 css文件支持压缩，默认备份
 
@@ -28,12 +28,12 @@ css文件支持压缩，默认备份
 2.多人协作使用新增了include语法，例子在upgrade.config中设置
 3.自动识别了js、css文件类型，并能自动压缩
 4.配置说明
-<include file="templates/upgrade.ini" defpath="templates" bak="false" type="list" />
+&lt;include file="templates/upgrade.ini" defpath="templates" bak="false" type="list" /&gt;
 defpath:默认路径名称，如果团队成员只允许一个目录的权限则有必要设置
 bak:备份默认
 type:只有值为list的时候，才允许下级配置列表使用单行文件列表
 
-<include file="upgrade.ini" defpath="" bak="false" type="list" />
+&lt;include file="upgrade.ini" defpath="" bak="false" type="list" /&gt;
 upgrade.ini 文件配置说明
 注释：采用符号;或者#开头的识别为注释
 列表方式：直接写文件路径
