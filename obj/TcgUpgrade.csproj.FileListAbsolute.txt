@@ -1,0 +1,10 @@
+E:\http\工具\TcgUpgrade\TcgUpgrade\obj\Debug\ResolveAssemblyReference.cache
+E:\http\工具\TcgUpgrade\TcgUpgrade\obj\Debug\TcgUpgrade.Properties.Resources.resources
+E:\http\工具\TcgUpgrade\TcgUpgrade\obj\Debug\TcgUpgrade.csproj.GenerateResource.Cache
+E:\http\工具\TcgUpgrade\TcgUpgrade\bin\Debug\TcgUpgrade.exe
+E:\http\工具\TcgUpgrade\TcgUpgrade\bin\Debug\TcgUpgrade.pdb
+E:\http\工具\TcgUpgrade\TcgUpgrade\obj\Debug\TcgUpgrade.exe
+E:\http\工具\TcgUpgrade\TcgUpgrade\obj\Debug\TcgUpgrade.pdb
+E:\http\工具\TcgUpgrade\TcgUpgrade\obj\Debug\TcgUpgrade.MainFrom.resources
+E:\http\工具\TcgUpgrade\TcgUpgrade\obj\Debug\TcgUpgrade.AboutBox1.resources
+E:\http\工具\TcgUpgrade\TcgUpgrade\obj\Debug\TcgUpgrade.Hebin.resources
